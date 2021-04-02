@@ -22,7 +22,7 @@
 | ------------- | ------------- |------------- |
 | ![](./screenshots/task_list.png) | ![](./screenshots/updating.png)  | ![](./screenshots/updatedlist.png)  |
 
-| Delete All Task  | Delete |
+| Delete All Task  | Deleted |
 | ------------- | ------------- |
 | ![](./screenshots/delete_notes.png) | ![](./screenshots/deleted.png)  | 
 
@@ -34,4 +34,23 @@
 | GIF Voice Recognition  | GIF For Swipe to Delete | 
 | ------------- | ------------- |
 | ![](./screenshots/voice_gif.gif) | ![](./screenshots/swipe_delete.gif)  |
+
+
+### Resources
+
+1. https://developer.android.com/guide/topics/search
+2. https://developer.android.com/training/wearables/apps/voice
+3. https://developer.android.com/topic/libraries/architecture/room
+4. https://developer.android.com/reference/android/app/Activity
+
+---
+
+### Features
+
+1. Speech to text recognition
+2. Swipe to left or right Delete
+3. Search functionality
+4. Delete all Notes
+5. Add Activity with Priority
+6. Login and Registration
 
