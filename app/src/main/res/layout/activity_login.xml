@@ -41,8 +41,8 @@
 
     <Button
         android:id="@+id/sign_in"
-        android:layout_width="130dp"
-        android:layout_height="65dp"
+        android:layout_width="122dp"
+        android:layout_height="56dp"
         android:background="#E2496343"
         android:onClick="login"
         android:text="Log In"
@@ -56,8 +56,8 @@
 
     <Button
         android:id="@+id/new_register"
-        android:layout_width="130dp"
-        android:layout_height="65dp"
+        android:layout_width="122dp"
+        android:layout_height="56dp"
         android:background="#E2496343"
         android:text="Register"
         android:textColor="@color/text"

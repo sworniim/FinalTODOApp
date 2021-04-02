@@ -94,11 +94,12 @@
     <Button
         android:id="@+id/save_button"
         style="@style/TextAppearance.AppCompat.Large"
-        android:layout_width="match_parent"
+        android:layout_width="144dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:background="#F5496343"
         android:text="@string/add_button"
+        android:textAlignment="center"
         android:textAllCaps="false"
         android:textColor="@android:color/primary_text_dark" />
 
