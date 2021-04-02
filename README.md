@@ -10,9 +10,9 @@
 
 
 # App_screenshots
-| Splash  | Login | Registration | Vakidation |
-| ------------- | ------------- |------------- |------------- |
-| ![](./screenshots/splash.png) | ![](./screenshots/login.png)  | ![](./screenshots/register.png)  | | ![](./screenshots/validation.png)  |
+| Splash  | Login | Registration |
+| ------------- | ------------- |------------- |
+| ![](./screenshots/splash.png) | ![](./screenshots/login.png)  | ![](./screenshots/register.png)  |
 
 | Main Activity  | Add Tasks with Priority | List Tasks |
 | ------------- | ------------- |------------- |
@@ -23,12 +23,12 @@
 | ![](./screenshots/task_list.png) | ![](./screenshots/updating.png)  | ![](./screenshots/updatedlist.png)  |
 
 | Delete All Task  | Delete |
-| ------------- | ------------- |------------- |
+| ------------- | ------------- |
 | ![](./screenshots/delete_notes.png) | ![](./screenshots/deleted.png)  | 
 
-| Search Specific Task  | 
-| ------------- | 
-| ![](./screenshots/search.png) | 
+| Search Specific Task  | Validation |
+| ------------- | ------------- | 
+| ![](./screenshots/search.png) |  ![](./screenshots/validation.png)  |
 
 
 | GIF Voice Recognition  | GIF For Swipe to Delete | 
